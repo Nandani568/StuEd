@@ -62,3 +62,8 @@
     cursor: pointer;
 
 }
+#contact-box{
+    background: url(message.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
